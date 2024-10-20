@@ -6,4 +6,4 @@ The program was created based on the course available on the website Udemy "Kurs
 
 
 Demo video
-https://github.com/user-attachments/assets/943cd763-c442-4fcf-9e5e-ee8347d094fd
+https://github.com/user-attachments/assets/943cd763-c442-4fcf-9e5e-ee8347d094fd 
